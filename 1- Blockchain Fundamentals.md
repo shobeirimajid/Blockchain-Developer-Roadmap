@@ -1,10 +1,28 @@
+
+# Decentralization
+- Web1
+- Web2
+- Web3
+- DAO
+
+# DLT
+- P2P
+- Node
+
 # Blockchain Cryptography
 - Hash Function: Sha256, Sha512, MD5, Kechak256, Scrypt, ...
 - Symmetric Encryption
 - Asymmetric Encryption
 - Public and Private keys
-- Address Creation Process
 - Signature
+
+# Blockchain Mechanism
+- Address Creation Process
+- Nounce
+- Transaction
+- Block
+- Consensus (PoW, PoS, zkSNARKs)
+- Fork
 
 # Cryptocurrency
 - Tokens vs Coin
@@ -28,10 +46,11 @@
 - Corda
 - Stellar
 - IOTA
+- Solana
+- Polcadot
 - LUKSO
 
-# Layer1, Layar2, Protocols
-- L1, L2
+# Layer1, Layar2
+- L1
+- L2
 - Ethereum 2.0
-- 0x Protocol
-- Uniswap Protocol
