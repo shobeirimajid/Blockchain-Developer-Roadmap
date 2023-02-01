@@ -39,6 +39,18 @@
 - 0x Protocol
 - Uniswap Protocol
 
+# Wallets
+- Custodial Wallets
+- Non-Custodial Wallets
+- HD-Wallets
+
+# Local Blockchain and Dev Tools
+- Brave
+- Metamask
+- Geth
+- Mist
+- Ganache
+
 # Remix IDE 
 - Remix Online
 - Remix Desktop
@@ -70,18 +82,6 @@
 - Slither
 - Graph
 
-# Wallets
-- Custodial Wallets
-- Non-Custodial Wallets
-- HD-Wallets
-
-# Local Blockchain and Dev Tools
-- Brave
-- Metamask
-- Geth
-- Mist
-- Ganache
-
 # IPFS
 - Ipfs Desktop
 - Ipfs Gateways
@@ -94,6 +94,31 @@
 - Infura
 - Alchemy
 - Moralis
+
+# DeFi
+- Tokens vs Coin
+- CBDC
+- Wrapped tokens
+- Colored Coins
+- Fungible Token Standards (ERC-20, ERC-23, ERC-223)
+- Interface Detection Standards (ERC-165)
+- ICO
+- Single Token Staking
+- Liquidity Pair (LP) Token Staking
+- Yield Farming
+- Lending Platforms
+- Liquidity Provider
+- Atomic Swap
+- Routed Swap
+- Uniswap (Liquidity, Route, Swap, ...)
+- Swap Widget
+
+# NFT and Metaverse
+- Non Fungible Token Standards (ERC-721, ERC-725, ERC-777, ERC-3643, ERC-4626, ERC-1155)
+- Royalty Standards (ERC-2981)
+- Metadata Standards (ERC-721 Metadata, Opensea Extended Metadata)
+- Marketplaces (Opensea, Rarible, ...)
+- Metadata Storage Tools (NFT.Storage, Pinata, ...)
 
 # Third-Party Services
 - Ethereum Clock (Transaction Schedulers)
