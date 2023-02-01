@@ -6,6 +6,13 @@
 - Address Creation Process
 - Signature
 
+# Cryptocurrency
+- Tokens vs Coin
+- Wrapped Tokens
+- Colored Coins
+- Stable Coins
+- CBDC
+
 # Wallets
 - Custodial Wallets
 - Non-Custodial Wallets
@@ -17,7 +24,6 @@
 - Polygon
 - Tron
 - Hyperledger
-- MERN
 - REACH
 - Corda
 - Stellar
