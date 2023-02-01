@@ -36,7 +36,8 @@
 - Non-Custodial Wallets
 - HD-Wallets
 
-# Blockchains and DLTs
+# Blockchains
+- Bitcoin
 - Ethereum
 - BSC
 - Polygon
