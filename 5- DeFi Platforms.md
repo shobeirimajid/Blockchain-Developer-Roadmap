@@ -12,8 +12,11 @@
 
 # Dex
 - Liquidity Provider
+- Swap Rate
 - Atomic Swap
 - Routed Swap
+- 0x Protocol
+- Uniswap Protocol
 - Uniswap (Liquidity, Route, Swap, ...)
 - Swap Widget
 
