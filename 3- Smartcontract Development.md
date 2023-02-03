@@ -40,7 +40,7 @@
 # Security
 - Exploits
 - Pitfalls
-- Hardenning
+- Hardening
 
 # Solidity Code Analyzers
 - Slither
