@@ -1,24 +1,24 @@
 
 # Decentralization
-- Web1
-- Web2
+- P2P
+- DLT
 - Web3
 - DAO
-
-# DLT
-- P2P
-- Node
+- DI (Decentralized Identity)
 
 # Blockchain Cryptography
-- Hash Function: Sha256, Sha512, MD5, Kechak256, Scrypt, ...
+- Hash Function (Sha256, Sha512, MD5, Kechak256, Scrypt, ...)
+- Bloom Filter
 - Symmetric Encryption
 - Asymmetric Encryption
 - Public and Private keys
-- Signature
+- Digital Signature
+- ZKP (Zero Knowledge Proof)
 
 # Blockchain Mechanism
 - Address Creation Process
 - Nounce
+- Node
 - Transaction
 - Block
 - Consensus (PoW, PoS, zkSNARKs)
@@ -36,7 +36,7 @@
 - Non-Custodial Wallets
 - HD-Wallets
 
-# Blockchains
+# DLT Protocols
 - Bitcoin
 - Ethereum
 - BSC
@@ -51,7 +51,10 @@
 - Polcadot
 - LUKSO
 
-# Layer1, Layar2
+# Scalability Solutions
 - L1
+- Rollups
 - L2
+- ZKSync
 - Ethereum 2.0
+- SideChains
