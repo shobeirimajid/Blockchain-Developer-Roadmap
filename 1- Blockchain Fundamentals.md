@@ -52,9 +52,7 @@
 - LUKSO
 
 # Scalability Solutions
-- L1
-- Rollups
-- L2
+- L2 and Rollups
 - ZKSync
-- Ethereum 2.0
 - SideChains
+- Ethereum 2.0
