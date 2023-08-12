@@ -15,23 +15,41 @@
 - Mist
 - Ganache
 
-# Solidity Language
-- Solidity Basics
-- Solidity Advanced Topics
+# Solidity Basics
+- First SmartContract
+- Code Style
+- Structure of a Solidity Source File
+- SPDX License
+- Pragma
+- DataTypes and Variables
+- Ether Units
+- Global Variables
+- Functions
+- Control Structures
+- Loop Structures
+- Event
+- ErrorHandling
+- Compile
+- Deploy on blockchain
+- Solidity Versions Changelogs
 
-# OpenZeppelin SmartContract Library
+# Solidity Advanced
+
+# Solidity Patterns
+
+# SmartContract Frameworks
+- Truffle
+- Hardhat
+- Foundry
+
+# OpenZeppelin
 - AccessControl
 - Proxy
 - MultiSigWallet
 - PaymantChannel
 - Bridge
 
-# Certora SmartContract Library
-
-# SmartContract Frameworks
-- Truffle
-- Hardhat
-- Foundry
+# Certora 
 
 # ChainLink Oracles
 - ChainLink PriceFeeds
