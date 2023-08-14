@@ -19,10 +19,23 @@
 - Solidity
 
 # Ethereum Virtual Machine (EVM)
+- EVM Architecture
+- EVM Data Layout
+- Call Data Layout 
+- Memory Layout
+- Storage Layout
+- Precompiled contracts
 - EVM OPcodes
 - Inline Assembly
-- EVM Data Locations
 - Gas
 - Message Calls
 - ABI
 - JSON RPC
+- EVM implementations
+- Geth (Go)
+- PyEthereum (Python)
+- evmone (C++)
+- EthereumJS (Javascript)
+- EnclaveEVM (C++)
+- KEVM
+- Ewasm
