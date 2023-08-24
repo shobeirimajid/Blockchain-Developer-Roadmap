@@ -28,7 +28,7 @@
 - LavaSDK
 - Dune
 
-# Blockchain Data
+# Decentralized Storage
 - IPFS
 - Firebase
 - FileCoin
