@@ -20,7 +20,10 @@
 - The Graph
 - LavaSDK
 - Chainstack Subgraphs
+- Subsquid 
 - Flipside Data Studio
 - ZettaBlock
 - KYVE
 - Cryo
+- LavaSDK
+- Dune
