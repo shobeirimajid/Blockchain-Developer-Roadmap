@@ -13,3 +13,5 @@
  6- NFT Platforms
  
  7- Architecture and Infrastructure
+
+ 8- Network and Node running
