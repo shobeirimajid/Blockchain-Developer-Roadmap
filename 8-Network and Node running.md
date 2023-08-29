@@ -10,11 +10,14 @@
 - Advantages of RPC
 - Disadvantages of RPC
 
+# JSON-RPC
+
 # Node and Clients
 - Ethereum Clients
   - Geth (Go Ethereum)
-  - Reth
-  - Openethereum
+  - Reth (Rust Ethereum)
+  - Openethereum (ex Parity)
+  - Trinty
   - Teth
   - Erigon
   - GoQuorum
